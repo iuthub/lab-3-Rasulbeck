@@ -1,6 +1,6 @@
 a {
 	text-decoration: none;
-	color: blue;
+	color: yellow;
 }
 
 li:hover {
@@ -35,7 +35,7 @@ li {
 
 #listarea {
 	background-color: #DDEEFF;
-	border: 5px double blue;
+	border: 5px double black;
 	padding: 0;
 	width: 50%;
 	min-width: 500px;
